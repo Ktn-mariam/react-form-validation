@@ -1,0 +1,22 @@
+img {
+  width: 50px;
+}
+
+.center {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.message {
+  background-color: rgb(236, 200, 200);
+  padding: 20px 40px;
+  border-radius: 5px;
+  width: 317px;
+  text-align: center;
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 3px 8px;
+  margin-bottom: -55px;
+  margin-top: 5px;
+}
